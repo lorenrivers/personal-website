@@ -1,0 +1,51 @@
+img {
+    border-radius: 5%;
+}
+
+#cv-header { 
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#summary-text {
+    text-align: justify;
+}
+
+.content {
+    display: flex;
+    margin: 20px;
+}
+
+.job-title {
+    flex: 1;
+}
+
+.job-tasks {
+    flex: 1;
+}
+
+.company { 
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+#edu-container {
+    display: flex;
+}
+
+.qualifications {
+    flex: 1;
+    background-color: #add8e680;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20%;
+}
+
+.qualifications h3 {
+    text-align: center;
+}
+
+.date {
+    text-align: center;
+}
